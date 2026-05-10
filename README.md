@@ -1,4 +1,4 @@
-# API Post Manager - PySide6
+# API Post Manager 
 
 ## Deskripsi Singkat
 **API Post Manager** adalah aplikasi desktop berbasis antarmuka grafis (GUI) yang dirancang untuk mengelola data *post* menggunakan REST API publik (`https://api.pahrul.my.id/api/posts`). 
